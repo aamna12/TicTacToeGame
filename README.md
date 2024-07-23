@@ -8,8 +8,9 @@ The game can be reseted.
 
 ![22](https://github.com/user-attachments/assets/9421bfd4-d8f8-498e-899e-e44d6c1c5485)
 
-<br><br>
+<br>
 <b>On a Draw Game:</b> <br>
+
 ![13](https://github.com/user-attachments/assets/dcd05d6b-d29e-4107-9a33-9bff7b1f7156)
 
 
